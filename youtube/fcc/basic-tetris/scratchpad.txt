@@ -1,0 +1,17 @@
+video progress: 1:21:10s
+
+
+How to comment out multiline / single line in VS Code:
+
+MacOS:
+
+Shift + Option + A
+
+/* multiline    
+   comment */
+
+
+
+CMD + /
+
+// single line comment    
